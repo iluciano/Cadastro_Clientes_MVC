@@ -9,8 +9,8 @@ using System.Web.Mvc;
 namespace NetCoders.SisCliente.UI.WEB.Controllers
 {
     //Para uma controller ser uma controller, ela precisa de 2 coisas
-    //1 -> Tem que herdar de Controller (já vem sozinho)
-    //2 -> O Sufixo precisa ser Controller
+    //1 - Tem que herdar de Controller (já vem sozinho)
+    //2 - O Sufixo precisa ser Controller
     public class ClienteController : Controller
     {
         // GET: Cliente
